@@ -3291,8 +3291,8 @@
   "mydspace.description": "",
   
   // "mydspace.general.text-here": "here",
-  // TODO New key - Add a translation
-  "mydspace.general.text-here": "here",
+  // TODO New key - Add a translation  -finished
+  "mydspace.general.text-here": "hier",
   
   // "mydspace.messages.controller-help": "Select this option to send a message to item's submitter.",
   "mydspace.messages.controller-help": "Wählen Sie diese Option, um dem/derjenigen, die die Ressource eingereicht hat, eine Nachricht zu schicken.",
@@ -5325,5 +5325,41 @@
   // TODO New key - Add a translation
   "workflow-item.send-back.button.confirm": "Send back",
   
-"home.search-form.placeholder": "Durchsuche Repositorium"
+"home.search-form.placeholder": "Durchsuche Repositorium",
+   // "submission.import-external.title.Journal": "Import a journal from an external source",
+  "submission.import-external.title.Journal": "Importieren von einem Journal aus einer externen Quelle",
+
+//  "submission.import-external.title.JournalIssue": "Import a journal issue from an external source",
+ "submission.import-external.title.JournalIssue": "Importieren von einem Journal aus einer externen Quelle",
+
+ // "submission.import-external.title.JournalVolume": "Import a journal volume from an external source",
+ "submission.import-external.title.JournalVolume": "Importieren von einem Journal aus einer externen Quelle",
+
+//  "submission.import-external.title.OrgUnit": "Import a publisher from an external source",
+  "submission.import-external.title.OrgUnit": "Importieren von einem Herausgeber aus einer externen Quelle",
+  
+  "submission.import-external.title.Person": "Import a person from an external source",
+"submission.import-external.title.Person": "Importieren von einer Person aus einer externen Quelle",
+
+  "submission.import-external.title.Project": "Import a project from an external source",
+  "submission.import-external.title.Project": "Importieren von einem Projekt aus einer externen Quelle",
+
+//  "submission.import-external.title.Publication": "Import a publication from an external source",
+  "submission.import-external.title.Publication": "Importieren von einer Herausgabe aus einer externen Quelle",
+
+ // "submission.import-external.title.none": "Import metadata from an external source",
+  "submission.import-external.title.none": "Importieren von Metadaten aus einer externen Quelle",
+  
+     "submission.edit.breadcrumbs": "Einreichung bearbeiten",
+
+  "submission.general.cancel": "Abbrechen",
+
+  "submission.general.info.saved": "Gespeicher",
+
+  "submission.general.info.pending-changes": "Ungespeicherte Veränderungen",
+
+  "mydspace.breadcrumbs": "MyDSpace",
+  
+  "mydspace.search-form.placeholder": "Suche in mydspace...",
+  
 }
